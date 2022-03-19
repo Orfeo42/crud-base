@@ -1,2 +1,2 @@
 # crud-base
-This Library is useful to generalize web project structure and api exposition
+This project purpose is to generalize web project structure and api exposition
